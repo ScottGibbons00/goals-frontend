@@ -11,6 +11,7 @@
     "@expo-google-fonts/inter": "^0.1.0",
     "@expo/vector-icons": "^12.0.3",
     "@mdi/font": "^5.9.55",
+    "@mdi/js": "^5.9.55",
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/bottom-tabs": "^5.11.3",
     "@react-navigation/native": "^5.9.0",
