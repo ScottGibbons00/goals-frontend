@@ -2,9 +2,10 @@ import 'react-native-gesture-handler';
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import HomeScreen from './screens/HomeScreen.js';
-import Milestones from './screens/MilestoneScreen';
-import Settings from './screens/SettingsScreen';
+import HomeScreen from './src/containers/Home/HomeScreen'
+
+import Milestones from './src/containers/Milestone/MilestoneScreen';
+import Settings from './src/containers/Settings/SettingsScreen';
 import { BottomNavigation } from 'react-native-paper';
 
 
